@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.exe
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.deps.json
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.runtimeconfig.json
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.dll
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\bin\Debug\net10.0\ExceptionHandling.pdb
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.sourcelink.json
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.dll
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\refint\ExceptionHandling.dll
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.pdb
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\DotNet\Day7\ExceptionHandling\obj\Debug\net10.0\ref\ExceptionHandling.dll

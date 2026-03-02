@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\DotNet\Linq\bin\Debug\net10.0\Linq.exe
+C:\Users\Lenovo\Documents\DotNet\Linq\bin\Debug\net10.0\Linq.deps.json
+C:\Users\Lenovo\Documents\DotNet\Linq\bin\Debug\net10.0\Linq.runtimeconfig.json
+C:\Users\Lenovo\Documents\DotNet\Linq\bin\Debug\net10.0\Linq.dll
+C:\Users\Lenovo\Documents\DotNet\Linq\bin\Debug\net10.0\Linq.pdb
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.sourcelink.json
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.dll
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\refint\Linq.dll
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.pdb
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\Linq.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\DotNet\Linq\obj\Debug\net10.0\ref\Linq.dll

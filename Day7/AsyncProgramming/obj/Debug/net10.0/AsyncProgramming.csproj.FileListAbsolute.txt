@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.exe
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.deps.json
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.runtimeconfig.json
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.dll
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\bin\Debug\net10.0\AsyncProgramming.pdb
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.dll
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\refint\AsyncProgramming.dll
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.pdb
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\AsyncProgramming.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\DotNet\Day7\AsyncProgramming\obj\Debug\net10.0\ref\AsyncProgramming.dll

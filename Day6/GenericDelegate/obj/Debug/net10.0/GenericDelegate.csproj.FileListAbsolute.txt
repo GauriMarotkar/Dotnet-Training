@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\bin\Debug\net10.0\GenericDelegate.exe
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\bin\Debug\net10.0\GenericDelegate.deps.json
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\bin\Debug\net10.0\GenericDelegate.runtimeconfig.json
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\bin\Debug\net10.0\GenericDelegate.dll
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\bin\Debug\net10.0\GenericDelegate.pdb
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.sourcelink.json
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.dll
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\refint\GenericDelegate.dll
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.pdb
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\GenericDelegate.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\DotNet\Day6\GenericDelegate\obj\Debug\net10.0\ref\GenericDelegate.dll

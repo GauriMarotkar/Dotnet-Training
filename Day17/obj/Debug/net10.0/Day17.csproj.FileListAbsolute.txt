@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Documents\DotNet\Day17\obj\Debug\net10.0\Day17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\DotNet\Day17\obj\Debug\net10.0\Day17.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\DotNet\Day17\obj\Debug\net10.0\Day17.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\DotNet\Day17\obj\Debug\net10.0\Day17.csproj.CoreCompileInputs.cache
